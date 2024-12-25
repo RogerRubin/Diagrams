@@ -163,7 +163,7 @@
           <mxGeometry x="1016.8" y="80" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="RIR9oYm7FpEqoZgC7cDA-10" value="&lt;font&gt;Traffic-Rule:&lt;br&gt;- Blue -&amp;gt; Orange allow&lt;br&gt;- Orange -&amp;gt; blue deny&lt;/font&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=14;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="585" y="384" width="190" height="56" as="geometry" />
+          <mxGeometry x="339.1" y="104" width="190" height="56" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
